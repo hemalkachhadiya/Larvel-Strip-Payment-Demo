@@ -9,7 +9,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://stripe.com/img/v3/home/twitter.png" alt="Stripe Logo" height="80">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/1170/1170627.png" alt="Order Icon" height="80">
+<img src="https://cdn-icons-png.flaticon.com/512/3595/3595455.png" alt="Order Light Icon" height="80">
 </p>
 <!-- </p> -->
 
