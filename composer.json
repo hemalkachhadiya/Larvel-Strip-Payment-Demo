@@ -1,0 +1,20 @@
+{
+    "name": "smarttech/stripe-payment",
+    "description": "Stripe payment integration for Laravel",
+    "type": "library",
+    "require": {
+        "stripe/stripe-php": "7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smarttech\\StripePayment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jayesh"
+        }
+    ],
+    "minimum-stability": "dev"
+}
